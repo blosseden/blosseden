@@ -16,7 +16,7 @@ Lately: building RAG with **Upstage Embed 2** and **Solar Pro** over ~650K docum
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,java,kotlin,py" />
+<img src="https://skillicons.dev/icons?i=ts,java,kotlin,py,go" />
 
 **Backend**
 
@@ -28,7 +28,7 @@ Lately: building RAG with **Upstage Embed 2** and **Solar Pro** over ~650K docum
 
 **Cloud & Infra**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,terraform,linux" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,terraform,linux" />
 
 **CI/CD & Observability**
 
@@ -36,7 +36,7 @@ Lately: building RAG with **Upstage Embed 2** and **Solar Pro** over ~650K docum
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular" />
 
 **AI**
 
@@ -44,10 +44,6 @@ Lately: building RAG with **Upstage Embed 2** and **Solar Pro** over ~650K docum
 ![Upstage Solar Pro](https://img.shields.io/badge/Upstage-Solar%20Pro-6B4EFF?style=for-the-badge)
 ![pgvector](https://img.shields.io/badge/pgvector-Vector%20Search-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-**Exploring**
-
-<img src="https://skillicons.dev/icons?i=go,kubernetes" />
 
 ---
 
