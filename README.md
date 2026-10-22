@@ -1,5 +1,3 @@
-# Hi, I'm Tailang Lee
-
 **Software Architect · Backend / Full-Stack Engineer**
 
 I take products from a customer's first meeting to a system that runs in production.
