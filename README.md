@@ -16,19 +16,23 @@ Lately: building RAG with **Upstage Embed 2** and **Solar Pro** over ~650K docum
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,java,kotlin,py,go" />
+<img src="https://skillicons.dev/icons?i=ts,java,kotlin,py,go,php" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nestjs,spring,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=nestjs,express,spring,django,fastapi" />
+
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 **Data**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,dynamodb,supabase,kafka" />
 
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
 **Cloud & Infra**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,terraform,linux" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,nginx,terraform,linux" />
 
 **CI/CD & Observability**
 
@@ -36,10 +40,17 @@ Lately: building RAG with **Upstage Embed 2** and **Solar Pro** over ~650K docum
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,remix,vue,angular,jquery" />
 
-**AI**
+**Desktop & Mobile**
 
+<img src="https://skillicons.dev/icons?i=electron,flutter" />
+
+**AI & ML**
+
+<img src="https://skillicons.dev/icons?i=sklearn" />
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Upstage Embed 2](https://img.shields.io/badge/Upstage-Embed%202-6B4EFF?style=for-the-badge)
 ![Upstage Solar Pro](https://img.shields.io/badge/Upstage-Solar%20Pro-6B4EFF?style=for-the-badge)
 ![pgvector](https://img.shields.io/badge/pgvector-Vector%20Search-336791?style=for-the-badge&logo=postgresql&logoColor=white)
